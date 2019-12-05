@@ -45,13 +45,5 @@ You can use this in your terraform template with the following steps.
     - destination_cidrs
     - server_ids
 
-Authors
--------
-Created and maintained by He Guimin(@xiaozhu36 heguimin36@163.com)
 
-Reference
----------
-* [Terraform-Provider-Alicloud Github](https://github.com/terraform-providers/terraform-provider-alicloud)
-* [Terraform-Provider-Alicloud Release](https://releases.hashicorp.com/terraform-provider-alicloud/)
-* [Terraform-Provider-Alicloud Docs](https://www.terraform.io/docs/providers/alicloud/index.html)
 
